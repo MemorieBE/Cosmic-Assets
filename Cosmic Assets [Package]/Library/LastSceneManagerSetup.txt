@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Cosmic Assets Package/Scenes/ExampleScene1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
